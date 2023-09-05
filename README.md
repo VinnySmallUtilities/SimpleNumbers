@@ -1,5 +1,5 @@
 # SimpleNumbers
-Simple generator for get little Prime Numbers
+Simple generator for get little Prime Numbers (only for Windows)
 
 Генератор небольших простых чисел
 
